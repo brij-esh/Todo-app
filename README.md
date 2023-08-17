@@ -19,3 +19,6 @@ A todo list app
 	- checkTodo
 	- renderTodosList
 	- showNotification
+
+Project Preview
+https://todo-app-lilac-gamma.vercel.app/
